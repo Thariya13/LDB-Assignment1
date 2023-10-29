@@ -1,0 +1,18 @@
+{
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Polygon",
+        "coordinates": [ [ [0, 0], [10, 0], [10, 10], [0, 10], [0, 0] ] ]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [ [3, 3], [7, 3], [7, 7], [3, 7], [3, 3] ]
+      },
+      {
+        "type": "MultiPoint",
+        "coordinates": [ [4, 4], [6, 6] ]
+      }
+    ]
+  }
+  

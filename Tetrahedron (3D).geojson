@@ -1,0 +1,14 @@
+{
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [ -73.987, 40.756, 100 ]
+      },
+      {
+        "type": "Polygon",
+        "coordinates": [ [ [ -73.987, 40.756, 0 ], [ -74.006, 40.712, 0 ], [ -74.002, 40.719, 0 ], [ -73.987, 40.756, 0 ] ] ]
+      }
+    ]
+  }
+  
